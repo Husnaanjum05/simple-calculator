@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.calculator {
+  background-color: #fff;
+  width: 320px;
+  border-radius: 20px;
+}
+
+button {
+  height: 60px;
+  font-size: 1.2rem;
+}
